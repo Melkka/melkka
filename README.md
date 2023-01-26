@@ -16,6 +16,6 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/melissaam7"><img src=”melkka/images/linkedin.png” alt=”alternate text”width=”30px”></a>
+<a href="https://www.linkedin.com/in/melissaam7"><img src=”MELKKA/images/linkedin.png” alt=”alternate text”width=”30px”></a>
 
 
